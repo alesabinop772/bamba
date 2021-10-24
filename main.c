@@ -6,6 +6,8 @@ int main(void){
 
 puts("Hello World!");
  int a=0;
+ 
+ printf("eu te amo!");
   
   
 }
